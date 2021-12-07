@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    
+}
+.loginPage{
+    background: url(../img/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.login{
+    padding-top: 50px;
+    width: 30%;
+    height: auto;
+    margin-bottom: 50px;
+    background: rgba(80, 174, 228, 0.13);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.barrier{
+    padding: 50px;
+}
+.logo{
+    border-radius: 50%;
+    width: 100px;
+    margin-top: -125px;
+}
+.footer_lnhs{
+    background-color: black;
+}
+.footer_logo{
+    border-radius: 50%;
+    width: 30px;
+    height: auto;
+}
+.btn{
+    background-color: #1b9cc6;
+}
+.nav_logo{
+    border-radius: 50%;
+    width: 70px;
+    height: auto;
+}
+.navbar{
+    background-color: black;
+    max-width: 100%;
+    
+}
+.header{
+    max-width: 100%;
+    max-height: auto;
+    
+}
+
+.head{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+.head-text{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 50px;
+}
+.img-card{
+    max-width: 100%;
+    max-height: auto;
+}
+
+.card-deck{
+    margin-left: 100px;
+    margin-bottom: 50px;
+    
+}
+.card {
+    backdrop-filter: blur(5px) saturate(75%);
+    -webkit-backdrop-filter: blur(5px) saturate(75%);
+    background-color: rgba(176, 217, 236, 0.51);
+    border-radius: 12px;
+    border: 1px solid rgba(128, 159, 206, 0.3);
+}
+.conheader{
+    width:100%;
+
+}
+.location{
+    backdrop-filter: blur(5px) saturate(75%);
+    -webkit-backdrop-filter: blur(5px) saturate(75%);
+    background-color: rgba(176, 217, 236, 0.51);
+    border-radius: 12px;
+    border: 1px solid rgba(128, 159, 206, 0.3);
+    padding: 10px;
+    width: 50%;
+}
+.abt-card{
+    width: 50%;
+    height: auto;
+}
+.abt-logo{
+    border-radius: 50%;
+    width: 100px;
+    margin-top: -90px;
+    margin-left: 250px;
+}
